@@ -1,1 +1,1 @@
-g++ WallpaperEngine.cpp - WallpaperEngine.exe -lgdi32 -lavformat -lavcodec -lswscale -lavutil -static
+g++ WallpaperEngine.cpp -o WallpaperEngine.exe -lgdi32 -lavformat -lavcodec -lswscale -lavutil -static
